@@ -24,7 +24,6 @@ Este é um bot do Telegram que oferece aos usuários uma interface simples e pr�
 
 ## EXECUTANDO O PROJETO:
 1. **Configurar suas credenciais**:
-   - **Ativar o Mini-App**: Acesse o [@BotFather](https://t.me/BotFather) e envie o comando `/newapp` para criar um novo Mini-App. Siga as instruções fornecidas e, depois de configurado, envie o comando `/mybots`. Selecione o seu bot, vá para **Bot Settings** > **Configure Mini App** > **Enabled**, e insira a URL do seu jogo.
    - **Inserir o Token do Bot**: Antes de rodar o bot, substitua o token do seu bot no arquivo `./CODIGO/CONFIG.py`, na seção `TOKEN`. Você pode obter o token através do [@BotFather](https://t.me/BotFather) ao criar o bot.
    - **Definir a URL do Mini-App**: Abra o arquivo `./CODIGO/CONFIG.py`, e na seção `MINI_APP_URL`, insira a URL onde o seu jogo está hospedado. No exemplo fornecido, eu usei o [JOGO DA MEMÓRIA](https://github.com/VILHALVA/JOGO-DA-MEMORIA) como Mini-App. Esse jogo também está disponivel no [SITE STYLER](https://vilhalva.github.io/STYLER/index.html).
 
