@@ -36,7 +36,7 @@ Este é um bot do Telegram que oferece aos usuários uma interface simples e pr�
       * [SPEED RACING](https://github.com/VILHALVA/SPEED-RACING)
       * [FLAPPY PLANE](https://github.com/VILHALVA/FLAPPY-PLANE-COM-CONSTRUCT)
       * [JOGO DA FORCA](https://github.com/VILHALVA/JOGO-DA-FORCA-EM-HTML)
-   - Para que o botão `Web App` funcione (É o botão que fica ao lado esquerdo do campo de digitação de mensagem no bot, que aparece logo ao lado do ícone do teclado), abra o `./CODIGO/MAIN.py` e modificar o trecho na linha `8` com o titulo do seu jogo:
+   - Para que o botão `Web App` funcione (É o botão que fica ao lado esquerdo do campo de digitação de mensagem no bot, que aparece logo ao lado do ícone do teclado), abra o `./CODIGO/MAIN.py` e modifique o trecho na linha `8` com o titulo do seu jogo:
    ```python
     web_app_info = WebAppInfo(url=GAMES["JOGO 1"])  # Usar uma URL de um jogo específico.
    ```
