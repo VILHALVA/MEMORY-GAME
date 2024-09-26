@@ -1,15 +1,16 @@
 # MEMORY GAME
 🎮ESTE É UM BOT DE TELEGRAM QUE OFERECE AOS USUÁRIOS ACESSO A DIVERSOS JOGOS, ATRAVÉS DO RECURSO DE MINI-APPS.
 
-<img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO
 Este é um bot do Telegram que oferece aos usuários uma interface simples e prática para acessar uma variedade de jogos interativos hospedados como `MINI-APPS`. Ao iniciar o bot com o comando `/start`, o usuário recebe uma saudação amigável, juntamente com uma lista de botões inline que oferecem diferentes opções de jogos. Cada botão direciona o usuário diretamente ao jogo correspondente, permitindo que ele desfrute de uma experiência divertida e imersiva em diferentes tipos de jogos, diretamente no navegador, seja em dispositivos móveis ou desktops, sem a necessidade de instalação de aplicativos adicionais.
 
 ## FUNCIONALIDADES:
 1. **Saudação e Seleção de Jogos**:
-   - Ao enviar o comando `/start`, o bot responde com uma mensagem de boas-vindas e apresenta uma lista de botões inline, cada um representando um jogo disponível, como **"Jogo da Memória"**, **"Jogo da Velha"**, e outros.
+   - Ao enviar o comando `/start`, o bot responde com uma mensagem de boas-vindas e apresenta uma lista de botões inline, cada um representando um jogo disponível.
    - Ao clicar em qualquer um dos botões, o usuário é redirecionado para o link onde o jogo escolhido está hospedado, proporcionando uma experiência de jogo imediata e sem complicações.
 
 2. **Ajuda**:
