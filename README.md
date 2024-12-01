@@ -74,4 +74,3 @@ Este é um bot do Telegram que oferece aos usuários uma interface simples e pr�
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ACESSE AO BOT](https://t.me/MEMORY_GAME_ROBOT)
