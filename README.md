@@ -24,7 +24,7 @@ Este é um bot do Telegram que oferece aos usuários uma interface simples e pr�
 ## EXECUTANDO O PROJETO:
 1. **Configurar suas credenciais**:
    - **Inserir o Token do Bot**: Antes de rodar o bot, substitua o token do seu bot no arquivo `./CODIGO/CONFIG.py`, na seção `TOKEN`. Você pode obter o token através do [@BotFather](https://t.me/BotFather) ao criar o bot.
-   - **Definir a URL do Mini-App**: Abra o arquivo `./CODIGO/CONFIG.py`, e na seção `GAMES`, insira o titulo e a URL onde os seus jogos estão hospedados. No meu [bot](https://t.me/MEMORY_GAME_ROBOT), eu usei os seguintes jogos:
+   - **Definir a URL do Mini-App**: Abra o arquivo `./CODIGO/CONFIG.py`, e na seção `GAMES`, insira o titulo e a URL onde os seus jogos estão hospedados. Nesse exemplo, eu usei os seguintes jogos:
       * [JOGO DA MEMÓRIA](https://github.com/VILHALVA/JOGO-DA-MEMORIA)
       * [JOGO DA VELHA](https://github.com/VILHALVA/JOGO-DA-VELHA-HTML) 
       * [NUMPUZ](https://github.com/VILHALVA/JOGO-DO-NUMPUZ)
